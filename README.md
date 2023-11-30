@@ -1,3 +1,3 @@
 # Digital Clock
 
- Digital clock which display the current time in Hours, Minutes and seconds. This JavaScript clock display the time as per Local time zone.
+HTML and CSS is used to design the Clock and for Updating the current time used JavaScript Date Object as per Local time zone.
