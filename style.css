@@ -87,7 +87,7 @@
     content: 'SECONDS';
 }
 
-@media screen and (max-width: 860px) {
+@media (max-width: 861px) {
     .container {
         width: 70%;
     }
