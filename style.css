@@ -86,3 +86,15 @@
 #sec::after {
     content: 'SECONDS';
 }
+
+@media screen and (max-width: 860px) {
+    .container {
+        width: 70%;
+    }
+
+    .clock span {
+        font-size: 50px;
+        width: 45px;
+    }
+
+}
